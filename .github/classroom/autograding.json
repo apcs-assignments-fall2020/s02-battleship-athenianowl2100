@@ -13,7 +13,7 @@
     {
       "name": "Place Boat",
       "setup": "",
-      "run": "./gradlew clean test --tests MyTests.testPlaceBoat",
+      "run": "./gradlew clean test --tests MyTests.testPlaceBoard",
       "input": "",
       "output": "",
       "comparison": "included",
